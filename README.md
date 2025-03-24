@@ -1,5 +1,11 @@
-## Hi there 👋
+### Hi, I'm Alexander Sisco
 
+- 🖥️ Self-taught developer (shadowed my dad who worked for Microsoft and Epson)
+- 🏗️ Cofounder and Lead Developer at [Speare.com](https://speare.com)
+- 💡 I like trying unusual things to solve difficult problems
+- 🌱 Lately, I'm enjoying learning Zig
+
+Check out my recent contribution of [Quiz 9](https://codeberg.org/ziglings/exercises/pulls/202) to [ziglings.org](https://ziglings.org)!
 <!--
 **alexandersisco/alexandersisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
