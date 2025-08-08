@@ -1,8 +1,8 @@
-### Hi, I'm Alexander Sisco
+# 👋 Hi, I’m Alexander
 
-- 🖥️ Self-taught developer (shadowed my dad who worked for Microsoft and Epson)
 - 🏗️ Cofounder and Lead Developer at [Speare.com](https://speare.com)
-- 💡 I like trying unusual things to solve difficult problems
+- 🖥️ Self-taught developer
+- 💡 I love learning and like to dive deep
 - 🌱 Lately, I'm enjoying learning Zig
 
 Check out my recent contribution of [Quiz 9](https://ziggit.dev/t/new-quiz-in-ziglings-bit-manipulation-in-embedded-devices/8552) to [ziglings.org](https://ziglings.org)!
