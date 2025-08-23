@@ -1,6 +1,7 @@
-# 👋 Hi, I’m Alexander
+👋 Hi, I’m Alexander
 
-- 🏗️ Cofounder and Lead Developer at [Speare.com](https://speare.com)
-- 🖥️ Self-taught developer
-- 💡 I love learning and like to dive deep
-- 🌱 Lately, I'm enjoying learning Zig. Check out my contribution of [Quiz 9](https://ziggit.dev/t/new-quiz-in-ziglings-bit-manipulation-in-embedded-devices/8552) to [ziglings.org](https://ziglings.org)!
+- 🏗️ Co-founder & Lead Developer at [Speare.com](https://speare.com)
+- 🖥️ Self-taught engineer with 10+ years spanning TypeScript/React/Next.js
+- ⚡ Passionate about front-end engineering that feels as polished as native apps.
+- 🌱 Currently exploring Zig; contributor to [ziglings.org](https://ziglings.org)
+- 💡 I love solving difficult problems—state management, collaborative editors, data visualization—and turning them into simple, intuitive experiences.
