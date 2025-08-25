@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Alexander
-- 🏗️ Cofounder & Lead Developer at [Speare.com](https://speare.com), where I've designed, built, launched, and supported a powerful web application for writers and authors.
+- 🏗️ Cofounder & Lead Developer at [Speare.com](https://speare.com), where I've designed, built, launched, and supported long-term a powerful web application for writers and authors.
 - 🖥️ Self-taught engineer with 10+ years of experience, from modern TypeScript to low-level C on microcontrollers.
 - ⚡ I specialize in crafting web applications for creators with a focus on building UXs that feel as polished and performant as native apps.
 - 💡 I am curious by nature -- I love digging under the hood and getting into the low-level protocols of the web.
